@@ -1,0 +1,31 @@
+body {
+  background: whitesmoke;
+  color: grey;
+  text-align: Center;
+  padding: 15px;
+}
+
+h1{
+  color: black;
+  font-size: large;
+}  
+p {
+  font-size: small;
+} 
+a {
+  text-decoration: none;
+  color: grey;
+}
+.profile-img{
+  width: 50%;
+  border-radius: 50%;
+}
+
+.btn{
+display: block;
+color: grey;
+padding: 15px;
+background:white;
+margin-top: 16px;
+  box-shadow: 10px 10px grey;
+}
